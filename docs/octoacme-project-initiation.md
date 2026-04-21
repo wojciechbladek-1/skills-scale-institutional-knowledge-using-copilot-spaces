@@ -27,10 +27,11 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Primary stakeholders:
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
-- Proposed team / roles:
+- Proposed team / roles (minimum: Project Manager, Product Manager, Developers; optional: Business Analyst, UX Designer, Scrum Master, QA Lead, Tech Lead / Engineering Manager, Release Manager):
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
+- [ ] Kickoff role coverage aligned using [Project Kickoff Roles & Expectations Checklist](./octoacme-project-kickoff-roles-and-expectations-checklist.md)
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
