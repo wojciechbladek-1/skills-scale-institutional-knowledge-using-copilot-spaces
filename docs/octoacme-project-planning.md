@@ -15,6 +15,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. Align ownership using [RACI / Responsibility Matrix Template](./octoacme-raci-responsibility-matrix-template.md)
 
 ## Backlog Item Template
 - Title:
@@ -29,6 +30,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Timebox planning to agreed sprint length
 - Pull items that meet DoD and have clear acceptance criteria
 - Ensure team capacity is respected
+- Involve Business Analyst, UX Designer, and Tech Lead / Engineering Manager where scope, usability, or technical complexity is high
 
 ## Risk & Dependency Management
 - Capture in Risk Register:
@@ -38,6 +40,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 ## Planning Checklist
 - [ ] Project kickoff held
 - [ ] Backlog prioritized and estimated
+- [ ] Role ownership aligned with [RACI / Responsibility Matrix Template](./octoacme-raci-responsibility-matrix-template.md)
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted

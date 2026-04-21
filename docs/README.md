@@ -21,3 +21,6 @@ This folder contains OctoAcme's end-to-end project management process guidance, 
 - [octoacme-release-and-deployment.md](./octoacme-release-and-deployment.md)
 - [octoacme-retrospective-and-continuous-improvement.md](./octoacme-retrospective-and-continuous-improvement.md)
 - [octoacme-roles-and-personas.md](./octoacme-roles-and-personas.md)
+- [octoacme-raci-responsibility-matrix-template.md](./octoacme-raci-responsibility-matrix-template.md)
+- [octoacme-project-kickoff-roles-and-expectations-checklist.md](./octoacme-project-kickoff-roles-and-expectations-checklist.md)
+- [octoacme-release-readiness-roles-checklist.md](./octoacme-release-readiness-roles-checklist.md)
